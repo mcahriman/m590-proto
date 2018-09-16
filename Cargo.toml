@@ -1,0 +1,6 @@
+[package]
+name = "m590e-uart-proto"
+version = "0.1.0"
+authors = ["Yurii Borysov <mcahriman@gmail.com>"]
+
+[dependencies]
